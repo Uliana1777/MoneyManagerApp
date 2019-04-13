@@ -1,4 +1,4 @@
-package com.example.uliana.moneymanagerapp.menuDrawer;
+package com.example.uliana.moneymanagerapp.menudrawer;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
